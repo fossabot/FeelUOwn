@@ -5,6 +5,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/feeluown/FeelUOwn/badge.svg)](https://coveralls.io/github/feeluown/FeelUOwn)
 [![PyPI](https://img.shields.io/pypi/v/feeluown.svg)](https://pypi.python.org/pypi/feeluown)
 [![python](https://img.shields.io/pypi/pyversions/fuocore.svg)](https://pypi.python.org/pypi/feeluown)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPhotonQuantum%2FFeelUOwn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FPhotonQuantum%2FFeelUOwn?ref=badge_shield)
 
 FeelUOwn 是一个符合 Unix 哲学的跨平台的音乐播放器～
 
@@ -32,3 +33,7 @@ FeelUOwn 是一个符合 Unix 哲学的跨平台的音乐播放器～
 | ------- | ------ | -------- |
 | [MPRIS2](https://github.com/cosven/feeluown-mpris2-plugin) | [@cosven](https://github.com/cosven) | 可用 |
 | [Discord RPC Rich Precense 服务](https://github.com/BruceZhang1993/feeluown-discordrpc-plugin) | [@BruceZhang1993](https://github.com/BruceZhang1993) | 可用 |
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPhotonQuantum%2FFeelUOwn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPhotonQuantum%2FFeelUOwn?ref=badge_large)
